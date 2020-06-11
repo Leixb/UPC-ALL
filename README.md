@@ -39,6 +39,9 @@ Links a repos de treballs, laboratoris i projectes.
 - [labs](https://github.com/Leixb/UPC-PAR_labs)
   - [lab1](https://github.com/Leixb/UPC-PAR_lab1)
   - [lab2](https://github.com/Leixb/UPC-PAR_lab2)
+  - [lab3](https://github.com/Leixb/UPC-PAR_lab3)
+  - [lab4](https://github.com/Leixb/UPC-PAR_lab4)
+  - [lab5](https://github.com/Leixb/UPC-PAR_lab5)
 
 
 ## IA
